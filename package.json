@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-render",
+  "version": "1.0.0",
+  "description": "general page render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeKiwiSAMA/puppeteer-render.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moeKiwiSAMA/puppeteer-render/issues"
+  },
+  "homepage": "https://github.com/moeKiwiSAMA/puppeteer-render#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "node-static": "^0.7.11",
+    "puppeteer": "^17.1.1",
+    "uuid": "^9.0.0"
+  }
+}
